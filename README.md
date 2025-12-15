@@ -115,6 +115,6 @@ A **heatmap of correlations** between numeric features like **release year, dura
 ---
 
 ## 🔗 Connect with Me
-- **Email**: (Patilkrishnal2003@gmail.com)
-- **LinkedIn**: [Patil Krishnal](https://linkedin.com/in/krishnal-patil-b1a5a6208/)
-- **GitHub**: [Patilkrishnal2003](https://github.com/patilkrishnal2003)
+- **Email**: (Poojadeore350@gmail.com)
+- **LinkedIn**: [Deore Pooja](https://github.com/poojadeore350)
+- **GitHub**: [Patilkrishnal2003](https://github.com/poojadeore350)
